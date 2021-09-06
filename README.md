@@ -10,4 +10,4 @@ My name is Mateusz Cieślak and I am a 3rd year student of computer science. Her
 
 I am currently learning the following programming languages:
 
-C++,Java and C#.
+C++, Java and C#.
