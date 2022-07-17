@@ -12,6 +12,7 @@ I am familiar with programming languages:
 2. C++
 3. SQL
 4. Java(study now).
+5. PHP
 
 Frameworks and other:
 1. HTML5
