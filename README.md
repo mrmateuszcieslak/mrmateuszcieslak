@@ -5,7 +5,8 @@ Presentation
 Hello,
 
 I'm very glad you visited my repository on GitHub :)
-My name is Mateusz Cieślak and I am a 4th year student of computer science. Here I place my projects for internship/work purposes(Junior Developer).
+My name is Mateusz Cieślak and I am a 4th year student of computer science. 
+Here I place my projects for internship/work purposes(Junior Developer).
 I am familiar with programming languages:
 1. C#
 2. C++
