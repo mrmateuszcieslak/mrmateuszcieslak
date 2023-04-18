@@ -11,6 +11,7 @@ I am familiar with programming languages:
 1. C#
 2. C++
 3. SQL
+4. JavaScript
 
 
 Frameworks and other:
@@ -20,6 +21,7 @@ Frameworks and other:
 4. Entity Framework
 5. Windows Forms
 6. ASP.NET(study now).
+7. WPF(study now)
 
 
 
