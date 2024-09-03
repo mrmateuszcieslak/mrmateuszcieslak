@@ -1,5 +1,9 @@
-
-
+Hi there 👋, My name is Mateusz Cieślak
+<h2>This is where I post my projects. 
+The languages and technologies I develop in are : 
+SQL , C#/.NET , Python , C++ , JavaScript , PHP , Bootstrap 5 , HTML , CSS.</h2>
+<p align= "left">
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPython_%2528programming_language%2529&psig=AOvVaw1zPbXTTs9SUY-qIsDp-Y8Z&ust=1725463200540000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJC5yLqJp4gDFQAAAAAdAAAAABAE
 <!--
 **mrmateuszcieslak/mrmateuszcieslak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
