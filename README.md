@@ -11,7 +11,7 @@ I'm a passionate **Software Developer** working with various technologies to bui
 - **Web Technologies**: HTML, CSS, Bootstrap 5
 - **Databases**: MySQL, SQL Server
 - **Version Control**: Git & GitHub
-- **Tools & Platforms**: Visual Studio, VS Code, GitHub Actions, Azure, AWS, Arduino , Microsoft SQL Server Management Studio
+- **Tools & Platforms**: Visual Studio, VS Code, GitHub Actions, Azure, AWS, Arduino , Microsoft SQL Server Management Studio, Power BI
 
 ---
 
