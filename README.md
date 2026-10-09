@@ -41,13 +41,6 @@ I'm interested in opportunities involving:
 - Data Engineering & ETL Automation
 - Cloud Data Solutions
 
----
-
-### 📫 Let's Connect!
-
-💼 [LinkedIn](https://www.linkedin.com/in/mateuszcieslak1)
-
-I'm open to professional opportunities, collaboration, and projects involving data analytics, automation, and Business Intelligence.
 
 
 
