@@ -1,174 +1,159 @@
 <h1 align="center">Mateusz Cieślak</h1>
 
 <p align="center">
-  <strong>Data & BI Specialist</strong><br>
-  SQL · Python · Power BI · ETL · Data Analysis
+  <strong>Data & BI · SQL & Databases · Machine Learning · AWS & IoT</strong><br>
+  Turning data into clear reports, predictive experiments, and connected systems.
 </p>
 
 <p align="center">
-  <a href="https://github.com/mrmateuszcieslak">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github" alt="GitHub Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/mateuszcieslak1/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:maticieslak7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <a href="#portfolio-by-role"><img src="https://img.shields.io/badge/Explore-Portfolio-2563EB?style=for-the-badge" alt="Explore portfolio"></a>
+  <a href="https://www.linkedin.com/in/mateuszcieslak1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn"></a>
+  <a href="mailto:maticieslak7@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0F766E?style=for-the-badge" alt="Contact by email"></a>
 </p>
 
-I turn raw and fragmented data into structured datasets, automated workflows, and clear reports. My experience includes working with SQL and Python, building ETL processes, automating reporting, and developing Power BI dashboards.
+I work with **SQL, Python, and Power BI** to prepare data and communicate findings. My public portfolio brings together production and sales dashboards, SQL Server application integration, machine learning notebooks, and an AWS IoT architecture project.
 
-I’m focused on roles in **Business Intelligence, Data Analysis, and SQL / Database Development**. My portfolio also includes projects in machine learning data preparation and cloud-based IoT architecture.
+**Career interests:** BI Developer / Power BI Developer · Data Analyst · SQL Developer / Database Specialist · AI / Cloud Developer.
 
----
+## Portfolio by role
 
-## 📊 GitHub Activity
+Choose the work most relevant to your team:
 
-<p align="center">
-  <img height="165"
-       src="https://github-stats-extended.vercel.app/api?username=mrmateuszcieslak&show_icons=true&theme=tokyonight&hide_border=true"
-       alt="GitHub statistics">
-  <img height="165"
-       src="https://github-stats-extended.vercel.app/api/top-langs/?username=mrmateuszcieslak&layout=compact&theme=tokyonight&hide_border=true"
-       alt="Most used programming languages">
-</p>
+| Role | Start here | What to review |
+| --- | --- | --- |
+| **BI Developer** | [Production Analytics](#production-analytics) · [Apple Sales](#apple-sales) | Power BI dashboards, DAX, time filters, data modeling, Power Query |
+| **Data Analyst** | [Apple Sales](#apple-sales) · [Winter Olympics](#winter-olympics) · [Loan Data](#loan-data-preparation) | Revenue and volume trends, exploratory analysis, visualization, data preparation |
+| **SQL / Database Specialist** | [SimulatorCar](#sql-server-application-integration) · [Production Analytics](#production-analytics) | SQL Server integration, ADO.NET, persistent application data, a BI data model |
+| **AI / Cloud Developer** | [Bank Churn](#bank-customer-churn) · [AWS IoT](#aws-iot-architecture) · [Loan Data](#loan-data-preparation) | Classification experiments, model comparison, preprocessing, Terraform and AWS resources |
 
----
+## Featured work
 
-## 💼 What I Bring
+### Production Analytics
 
-| Area | Experience |
-|---|---|
-| **Data & SQL** | Data querying, preparation, validation, and work with Microsoft SQL Server and MySQL |
-| **Python & ETL** | Data processing and reporting automation with Python and libraries including Pandas and OpenPyXL |
-| **Business Intelligence** | Power BI reports, DAX measures, Power Query, data models, and KPI analysis |
-| **Automation** | Reducing repetitive reporting work with Python, Excel, and VBA |
-| **Cloud & IoT projects** | AWS, Terraform, ESP32, Arduino, and sensor data |
+**How does actual production compare with the plan, and where do costs, downtime, and quality need attention?**
 
----
+An interactive dashboard covering production KPIs, planned versus actual output and costs, downtime, and quality. Year/month filters and dynamic titles support time-based exploration.
 
-## ⭐ Featured Projects
+**Stack:** Power BI · SQL Server 2019 · DAX · Data modeling  
+**Evidence:** Power BI Desktop report (`.pbix`) and documented `FactProdukcja` / `DimData` model.  
+**Scope:** Portfolio demonstration using synthetic 2025 data; report interface in Polish. Refreshing may require changing the local SQL Server connection.
 
-<p align="center">
-  <a href="https://github.com/mrmateuszcieslak/ProductionAnalytics">
-    <img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=mrmateuszcieslak&repo=ProductionAnalytics&theme=tokyonight" alt="Production Analytics Dashboard">
-  </a>
-  <a href="https://github.com/mrmateuszcieslak/apple-sales-dashboard">
-    <img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=mrmateuszcieslak&repo=apple-sales-dashboard&theme=tokyonight" alt="Apple Sales Dashboard">
-  </a>
-  <a href="https://github.com/mrmateuszcieslak/SimulatorCar">
-    <img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=mrmateuszcieslak&repo=SimulatorCar&theme=tokyonight" alt="SimulatorCar Database Integration">
-  </a>
-  <a href="https://github.com/mrmateuszcieslak/LaboratoryIoT">
-    <img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=mrmateuszcieslak&repo=LaboratoryIoT&theme=tokyonight" alt="Cloud-Based IoT System Architecture">
-  </a>
-</p>
+[**Explore the report and model →**](https://github.com/mrmateuszcieslak/ProductionAnalytics)
 
----
+[![Production Analytics last commit](https://img.shields.io/github/last-commit/mrmateuszcieslak/ProductionAnalytics?style=flat-square&label=updated&color=2563EB)](https://github.com/mrmateuszcieslak/ProductionAnalytics/commits/main/)
 
-## 🧭 Portfolio by Role
+<a href="https://github.com/mrmateuszcieslak/ProductionAnalytics">
+  <img src="https://github.com/user-attachments/assets/83c6d838-9e7e-41c3-8334-7c638c3b4645" alt="Production Analytics Power BI dashboard preview" width="900">
+</a>
 
-| Target role | Relevant projects |
-|---|---|
-| **BI Developer** | [Production Analytics Dashboard](#production-analytics-dashboard), [Apple Sales Dashboard](#apple-sales-dashboard) |
-| **Data Analyst** | [Apple Sales Dashboard](#apple-sales-dashboard), [Winter Olympics Medal Analysis](#winter-olympics-medal-analysis), [Loan Data Preparation](#loan-data-preparation-for-machine-learning) |
-| **SQL / Database Specialist** | [Production Analytics Dashboard](#production-analytics-dashboard), [SimulatorCar Database Integration](#simulatorcar-database-integration) |
-| **AI / Cloud Developer** | [Bank Customer Churn Analysis](#bank-customer-churn-analysis), [Loan Data Preparation](#loan-data-preparation-for-machine-learning), [Cloud-Based IoT Architecture](#cloud-based-iot-system-architecture), [IoT Weather Station](#iot-weather-station) |
+### Apple Sales
 
----
+**Which apple varieties drive revenue, and how do sales change through the year?**
 
-## 📁 Project Portfolio
+A Power BI dashboard comparing sales volume and revenue by variety and month. The Apple Variety slicer updates the visuals, including Total Revenue and monthly comparisons.
 
-### Business Intelligence & Data Analytics
+**Stack:** Power BI · DAX · Power Query  
+**Focus:** Sales seasonality, variety comparisons, KPI presentation, and interactive filtering.
 
-#### Production Analytics Dashboard
+[**Explore the sales dashboard →**](https://github.com/mrmateuszcieslak/apple-sales-dashboard)
 
-- **Goal:** Monitor production KPIs and analyze planned versus actual production, costs, downtime, and quality using synthetic data.
-- **Technologies:** Power BI, SQL Server 2019, DAX, data modeling.
-- **Demonstrates:** BI dashboard development, KPI reporting, data modeling, and SQL Server.
-- **Repository:** [View project](https://github.com/mrmateuszcieslak/ProductionAnalytics)
+[![Apple Sales last commit](https://img.shields.io/github/last-commit/mrmateuszcieslak/apple-sales-dashboard?style=flat-square&label=updated&color=2563EB)](https://github.com/mrmateuszcieslak/apple-sales-dashboard/commits/main/)
 
-#### Apple Sales Dashboard
+<a href="https://github.com/mrmateuszcieslak/apple-sales-dashboard">
+  <img src="https://github.com/user-attachments/assets/51bcb083-13aa-4971-a02c-1f3808b1dfc5" alt="Apple Sales Power BI dashboard preview" width="900">
+</a>
 
-- **Goal:** Analyze sales volume and revenue by apple variety and month, including sales seasonality.
-- **Technologies:** Power BI, DAX, Power Query.
-- **Demonstrates:** Interactive reporting, KPI presentation, filtering, and comparison of sales volume and revenue.
-- **Repository:** [View project](https://github.com/mrmateuszcieslak/apple-sales-dashboard)
+### SQL Server Application Integration
 
-#### Winter Olympics Medal Analysis
+**Connecting a desktop application to persistent relational data.**
 
-- **Goal:** Analyze Winter Olympic medals across countries, years, sports, and gender, including Poland’s results.
-- **Technologies:** Python, Pandas, Matplotlib.
-- **Demonstrates:** Dataset analysis and visualization in a Jupyter notebook.
-- **Repository:** [View project](https://github.com/mrmateuszcieslak/WinterOlympicGames)
+SimulatorCar combines car navigation with street management. Users can modify street details and save changes through a SQL Server database integration.
 
-### SQL & Database Development
+**Stack:** C# · Windows Forms · Microsoft SQL Server · ADO.NET · DataSet  
+**Focus:** Database-backed application development, editing records, and data persistence.
 
-#### SimulatorCar Database Integration
+[**Inspect the application →**](https://github.com/mrmateuszcieslak/SimulatorCar)
 
-- **Goal:** Build a desktop simulation for car navigation and street management, with street details stored in a database.
-- **Technologies:** C#, Windows Forms, Microsoft SQL Server, ADO.NET, DataSet.
-- **Demonstrates:** SQL Server integration, data persistence, and database-backed application development.
-- **Repository:** [View project](https://github.com/mrmateuszcieslak/SimulatorCar)
+### Bank Customer Churn
 
-### AI & Machine Learning Data Preparation
+**Exploring and comparing classification approaches for bank customer churn.**
 
-#### Loan Data Preparation for Machine Learning
+The notebook includes data exploration, IQR-based outlier handling, scaling, categorical encoding, and a stratified train/test split. It implements Decision Tree, SVM, Random Forest, and XGBoost experiments, with GridSearchCV and stratified cross-validation. Evaluation code compares accuracy, precision, recall, F1, and ROC AUC.
 
-- **Goal:** Clean and filter credit data and prepare a subset for further exploration and machine learning.
-- **Technologies:** Python, Pandas, scikit-learn.
-- **Demonstrates:** Data preparation, stratified sampling, and exploratory analysis of credit data.
-- **Repository:** [View project](https://github.com/mrmateuszcieslak/Loan-Project-AI)
+**Stack:** Python · Pandas · scikit-learn · XGBoost · Matplotlib · Seaborn  
+**Scope:** Educational notebook experiments; no production deployment or independently validated performance claim.  
+**Collaboration:** Developed in cooperation with [SSJ0406](https://github.com/SSJ0406), as credited in the project README.
 
-#### Bank Customer Churn Analysis
+[**Inspect the ML notebook →**](https://github.com/mrmateuszcieslak/Bank-Customer-Churn-Prediction-AI)
 
-- **Goal:** Prepare customer data for a bank churn prediction task.
-- **Technologies:** Python, Pandas, scikit-learn.
-- **Demonstrates:** Data exploration, outlier handling, feature preprocessing, and train/test data preparation.
-- **Repository:** [View project](https://github.com/mrmateuszcieslak/Bank-Customer-Churn-Prediction-AI)
+[![Bank Churn last commit](https://img.shields.io/github/last-commit/mrmateuszcieslak/Bank-Customer-Churn-Prediction-AI?style=flat-square&label=updated&color=7C3AED)](https://github.com/mrmateuszcieslak/Bank-Customer-Churn-Prediction-AI/commits/main/)
 
-### Cloud & IoT
+### AWS IoT Architecture
 
-#### Cloud-Based IoT System Architecture
+**From environmental measurements to a cloud architecture defined as code.**
 
-- **Goal:** Design and partially implement an IoT system architecture covering device data acquisition, communication, and cloud integration.
-- **Technologies:** AWS, Terraform, ESP32, Arduino, IoT.
-- **Demonstrates:** Cloud architecture, IoT device integration, and Infrastructure as Code.
-- **Repository:** [View project](https://github.com/mrmateuszcieslak/LaboratoryIoT)
+LaboratoryIoT contains device code, architecture diagrams, a Power BI report, and Terraform definitions. The infrastructure code defines AWS IoT resources and certificates, a topic rule invoking Lambda, an S3 bucket, and a DynamoDB table.
 
-#### IoT Weather Station
+**Stack:** AWS IoT Core · AWS Lambda · Amazon S3 · Amazon DynamoDB · Terraform · ESP32 / Arduino · Power BI  
+**Focus:** Device/cloud integration, Infrastructure as Code, and architecture documentation.  
+**Scope:** Educational and research project described as a conceptual, partially implemented model. Repository materials do not establish a complete production deployment.
 
-- **Goal:** Collect environmental measurements for weather and air-quality analysis.
-- **Technologies:** Arduino, ESP32, environmental sensors.
-- **Demonstrates:** Embedded data acquisition, sensor integration, and wireless data transmission.
-- **Repository:** [View project](https://github.com/mrmateuszcieslak/ArduinoStacjaPogodowa)
+[**Explore the architecture and Terraform →**](https://github.com/mrmateuszcieslak/LaboratoryIoT)
 
----
+[![AWS IoT last commit](https://img.shields.io/github/last-commit/mrmateuszcieslak/LaboratoryIoT?style=flat-square&label=updated&color=0F766E)](https://github.com/mrmateuszcieslak/LaboratoryIoT/commits/main/)
 
-## 🛠️ Tech Stack
+## More data projects
 
-- **Data & Analytics:** SQL, Python, Pandas, NumPy, Power BI, DAX, Power Query
-- **Databases:** Microsoft SQL Server, MySQL
-- **ETL & Automation:** Python, OpenPyXL, Excel, VBA
-- **Cloud:** Microsoft Azure, AWS
-- **Programming:** C#, C++, JavaScript, PHP
-- **Tools:** Git, GitHub, Visual Studio, VS Code, SSMS, Jupyter Notebook
+### Winter Olympics
 
----
+Analysis of Winter Olympic medal records for **1924–2014**, covering countries, years, sports, gender, Poland, and Adam Małysz. Visualizations include bar, line, pie, and stacked bar charts.
 
-## 🎯 Career Interests
+**Stack:** Python · Pandas · Matplotlib  
+[**Explore the analysis →**](https://github.com/mrmateuszcieslak/WinterOlympicGames)
 
-- BI Developer / Power BI Developer
-- Data Analyst
-- SQL Developer / Database Specialist
-- Data Engineering and ETL Automation
-- AI and Cloud projects
+### Loan Data Preparation
 
----
+Credit-data cleaning and filtering for further analysis and machine learning. The notebook includes stratified sampling to create a **15,000-row subset** while preserving target-class proportions.
 
-## 📫 Contact
+**Stack:** Python · Pandas · scikit-learn  
+**Collaboration:** Developed in cooperation with [SSJ0406](https://github.com/SSJ0406), as credited in the project README.  
+[**Explore the notebook →**](https://github.com/mrmateuszcieslak/Loan-Project-AI)
 
-- **Email:** [maticieslak7@gmail.com](mailto:maticieslak7@gmail.com)
-- **LinkedIn:** [Mateusz Cieślak](https://www.linkedin.com/in/mateuszcieslak1/)
-- **GitHub:** [mrmateuszcieslak](https://github.com/mrmateuszcieslak)
+### IoT Weather Station
+
+An Arduino / ESP32 weather-station project for environmental measurements and wireless communication, including temperature, humidity, pressure, and air-quality parameters.
+
+**Stack:** Arduino · ESP32 · Environmental sensors  
+[**Explore the device project →**](https://github.com/mrmateuszcieslak/ArduinoStacjaPogodowa)
+
+<details>
+<summary><strong>Additional software projects — expense, contact, and task management</strong></summary>
+
+| Project | Confirmed functionality | Technologies |
+| --- | --- | --- |
+| [ExpenseManagerApp](https://github.com/mrmateuszcieslak/ExpenseManagerApp) | Expense CRUD, totals, monthly reports, JSON persistence | C# 12, .NET 8, System.Text.Json, Repository pattern |
+| [Contact Management System](https://github.com/mrmateuszcieslak/Contact-Management-System) | Contact CRUD, login, calendar reminders | PHP, JavaScript, HTML, CSS, FullCalendar |
+| [TaskManagerApp](https://github.com/mrmateuszcieslak/TaskManagerApp) | Task CRUD, sorting/filtering, PDF and JSON export | JavaScript, HTML, CSS |
+
+</details>
+
+## Technologies demonstrated in this portfolio
+
+| Area | Confirmed technologies |
+| --- | --- |
+| **Business Intelligence** | Power BI, DAX, Power Query, data modeling |
+| **Databases & integration** | Microsoft SQL Server, ADO.NET, DataSet |
+| **Data analysis** | Python, Pandas, Matplotlib, Seaborn |
+| **Machine learning** | scikit-learn, XGBoost, GridSearchCV, stratified cross-validation |
+| **Cloud & IoT** | AWS IoT Core, Lambda, S3, DynamoDB, Terraform, Arduino, ESP32 |
+| **Application development** | C#, .NET, Windows Forms, PHP, JavaScript, HTML, CSS |
+
+## Contact
+
+Interested in discussing BI, data analysis, database development, or AI/cloud opportunities?
+
+**[Connect on LinkedIn](https://www.linkedin.com/in/mateuszcieslak1/)** · **[Email me](mailto:maticieslak7@gmail.com)** · **[Browse all repositories](https://github.com/mrmateuszcieslak?tab=repositories)**
+
+<!-- Dynamic badges are externally generated by Shields.io and may be cached.
+     Project descriptions and previews are static; Power BI interactions happen in the report.
+     This README requires no workflow, JavaScript, or GitHub Actions configuration. -->
