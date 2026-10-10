@@ -17,25 +17,16 @@ My portfolio includes projects in Business Intelligence, data analysis, database
 
 ---
 
-## 📊 GitHub at a Glance
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mrmateuszcieslak&show_icons=true&theme=tokyonight&hide_border=true" alt="Mateusz's GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmateuszcieslak&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages">
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api?username=mrmateuszcieslak&show_icons=true&theme=tokyonight&hide_border=true"
+       alt="GitHub profile statistics">
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmateuszcieslak&layout=compact&theme=tokyonight&hide_border=true"
+       alt="Most used programming languages">
 </p>
-
-## 🧭 Portfolio Overview
-
-```mermaid
-pie showData
-    title Portfolio projects by primary focus
-    "BI and Analytics" : 3
-    "AI and Machine Learning" : 2
-    "Cloud and IoT" : 2
-    "SQL and Databases" : 1
-```
-
-*The chart groups the eight projects featured below by their primary focus.*
 
 ---
 
